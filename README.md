@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm kanatovich13
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="Header Banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/79b297f7-05d1-4cf0-a9b0-d140c6da777d" alt="Header Banner" width="100%" />
 </p>
 
 ### 👨‍💻 About Me:
@@ -11,15 +11,11 @@
 * 🧩 **Problem Solving**: Training analytical skills by solving algorithmic problems regularly on LeetCode.
 * 🎯 **Goal**: Growing into a solid Junior Python Developer through clean code and daily practice.
 
-<p align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="divider" />
-</p>
-
 ### 🧰 Languages & Tech Stack:
 
 **Languages & Frontend:**
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Python" height="45" />
+  <img src="https://github.com" alt="Python" height="45" />
   <img src="https://github.com" alt="HTML5" height="45" />
   <img src="https://github.com" alt="CSS3" height="45" />
   <img src="https://shields.io" height="45" />
@@ -27,18 +23,14 @@
 
 **Frameworks, Tools & Dev Environment:**
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Git" height="45" />
-  <img src="https://githubusercontent.com" alt="GitHub" height="45" />
-  <img src="https://githubusercontent.com" alt="VS Code" height="45" />
+  <img src="https://github.com" alt="Git" height="45" />
+  <img src="https://github.com" alt="GitHub" height="45" />
+  <img src="https://github.com" alt="VS Code" height="45" />
 </p>
 <p align="left">
   <img src="https://shields.io" height="40" />
   <img src="https://shields.io" height="40" />
   <img src="https://shields.io" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://githubusercontent.com" width="100%" alt="divider" />
 </p>
 
 ### 💻 Coding Profiles:
@@ -47,7 +39,6 @@
 ### 📊 My GitHub Activity:
 
 <p align="left">
-  <!-- Реальная статистика вашего профиля -->
   <img src="https://vercel.app" alt="GitHub Stats" />
 </p>
 
