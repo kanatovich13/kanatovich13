@@ -1,8 +1,8 @@
-![Developer Guy](https://giphy.com)
-
 # 👋 Hi there! I'm kanatovich13
 
-![Typing SVG](https://herokuapp.com)
+<p align="center">
+  <img src="https://vercel.app" alt="Header" />
+</p>
 
 ### 👨‍💻 About Me:
 * 📚 **Continuous Learner**: Actively building my core backend programming skills day by day.
@@ -18,6 +18,7 @@
 
 **Frameworks & Tools:**
 ![Django](https://shields.io) ![PostgreSQL](https://shields.io) ![Git](https://shields.io) ![Bash](https://shields.io)
+
 
 ### 💻 Coding Profiles:
 * 🚀 **LeetCode**: [kanatovich13](https://leetcode.com) — *Solving algorithmic challenges to improve data structures and efficiency.*
