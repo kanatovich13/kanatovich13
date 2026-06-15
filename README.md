@@ -1,3 +1,5 @@
+![Developer Guy](https://giphy.com)
+
 # 👋 Hi there! I'm kanatovich13
 
 ![Typing SVG](https://herokuapp.com)
