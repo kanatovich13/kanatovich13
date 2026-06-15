@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm kanatovich13
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79b297f7-05d1-4cf0-a9b0-d140c6da777d" alt="Header Banner" width="100%" />
+  <img src="https://github.com" alt="Header Banner" width="100%" />
 </p>
 
 ### 👨‍💻 About Me:
@@ -13,42 +13,21 @@
 
 ### 🧰 Languages & Tech Stack:
 
-<table>
-  <tr>
-    <td><b>Languages & Frontend:</b></td>
-    <td>
-      <img src="https://github.com" alt="Python" height="40" />
-      <img src="https://github.com" alt="HTML5" height="40" />
-      <img src="https://github.com" alt="CSS3" height="40" />
-      <img src="https://shields.io" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & Dev Environment:</b></td>
-    <td>
-      <img src="https://github.com" alt="Git" height="40" />
-      <img src="https://github.com" alt="GitHub" height="40" />
-      <img src="https://github.com" alt="VS Code" height="40" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frameworks & Backend:</b></td>
-    <td>
-      <img src="https://shields.io" height="40" />
-      <img src="https://shields.io" height="40" />
-      <img src="https://shields.io" height="40" />
-    </td>
-  </tr>
-</table>
+#### 🌐 Languages & Frontend
+![Python](https://github.com) ![HTML5](https://github.com) ![CSS3](https://github.com) ![SQL](https://shields.io)
+
+#### 🛠 Tools & Dev Environment
+![Git](https://github.com) ![GitHub](https://github.com) ![VS Code](https://github.com)
+
+#### ⚙️ Frameworks & Backend
+![Django](https://shields.io) ![PostgreSQL](https://shields.io) ![Bash](https://shields.io)
 
 ### 💻 Coding Profiles:
 * 🚀 **LeetCode**: [kanatovich13](https://leetcode.com) — *Solving algorithmic challenges to improve data structures and efficiency.*
 
 ### 📊 My GitHub Activity:
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://vercel.app)
 
 ### 📫 Connect with me:
 * ✈️ Telegram: [@kanatovich13](https://t.me)
