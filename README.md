@@ -13,25 +13,33 @@
 
 ### 🧰 Languages & Tech Stack:
 
-**Languages & Frontend:**
-<p align="left">
-  <img src="https://github.com" alt="Python" height="45" />
-  <img src="https://github.com" alt="HTML5" height="45" />
-  <img src="https://github.com" alt="CSS3" height="45" />
-  <img src="https://shields.io" height="45" />
-</p>
-
-**Frameworks, Tools & Dev Environment:**
-<p align="left">
-  <img src="https://github.com" alt="Git" height="45" />
-  <img src="https://github.com" alt="GitHub" height="45" />
-  <img src="https://github.com" alt="VS Code" height="45" />
-</p>
-<p align="left">
-  <img src="https://shields.io" height="40" />
-  <img src="https://shields.io" height="40" />
-  <img src="https://shields.io" height="40" />
-</p>
+<table>
+  <tr>
+    <td><b>Languages & Frontend:</b></td>
+    <td>
+      <img src="https://github.com" alt="Python" height="40" />
+      <img src="https://github.com" alt="HTML5" height="40" />
+      <img src="https://github.com" alt="CSS3" height="40" />
+      <img src="https://shields.io" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & Dev Environment:</b></td>
+    <td>
+      <img src="https://github.com" alt="Git" height="40" />
+      <img src="https://github.com" alt="GitHub" height="40" />
+      <img src="https://github.com" alt="VS Code" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Backend:</b></td>
+    <td>
+      <img src="https://shields.io" height="40" />
+      <img src="https://shields.io" height="40" />
+      <img src="https://shields.io" height="40" />
+    </td>
+  </tr>
+</table>
 
 ### 💻 Coding Profiles:
 * 🚀 **LeetCode**: [kanatovich13](https://leetcode.com) — *Solving algorithmic challenges to improve data structures and efficiency.*
