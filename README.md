@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi there! I'm kanatovich13
 
-<!--
-**kanatovich13/kanatovich13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://herokuapp.com" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 📚 **Continuous Learner**: Actively building my core backend programming skills day by day.
+- ⚙️ **Current Focus**: Learning MVC architecture, mastering Django ORM, and working with relational databases.
+- 🧪 **Hands-on Practice**: Experimenting with database fields, schema design, and data management in Python shells.
+- 🎯 **Goal**: Growing into a solid Junior Python Developer through clean code and daily practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools:
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="Django" />
+  <img src="https://shields.io" alt="SQLite" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="JSON" />
+</p>
+
+### 🏗 Currently Working On:
+- 🍦 **IceCream Shop Backend**: A Django web application with structured models (`Category`, `Topping`, `Wrapper`), relational databases, custom abstract models, and database dumps (`dumpdata`).
+
+### 📊 My GitHub Activity:
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
+</p>
+
+### 📫 Connect with me:
+- ✈️ Telegram: [@kanatovich13]
+- 📧 Email: beisenkulelzhan03@gmail.com // elzhanbeisenkul@yandex.kz
